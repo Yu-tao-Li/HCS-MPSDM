@@ -1,0 +1,3 @@
+scenario,rho_true,loss_dependence_proxy,max_abs_fragility_bias,max_rel_lossvar_bias
+moderate,0.3,0.1,0.026719088913584696,0.09088800180224157
+strong,0.55,0.18,0.04636344348809816,0.12132391362121554
